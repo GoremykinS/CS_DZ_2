@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a58dc906-78e8-45ca-b3b3-6f7a68ada9bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="287QwiyO8iKNPijUpvQPcpzIw3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../examples" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="CS_DZ_2" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="CS_DZ_2" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CS_DZ_2.3">
+    <configuration name="CS_DZ_2.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS_DZ_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../django/REST/10/REST_DZ_10/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_materials" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_materials/CS_DZ_2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CS_DZ_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS_DZ_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_materials" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_materials/CS_DZ_2.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CS_DZ_2.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CS_DZ_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_materials" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_materials/CS_DZ_2.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CS_DZ_2.1" />
+      <item itemvalue="Python.CS_DZ_2.2" />
+      <item itemvalue="Python.CS_DZ_2.3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CS_DZ_2.3" />
+        <item itemvalue="Python.CS_DZ_2.1" />
+        <item itemvalue="Python.CS_DZ_2.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a58dc906-78e8-45ca-b3b3-6f7a68ada9bc" name="Default Changelist" comment="" />
+      <created>1650565385361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650565385361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650569887599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1650569887599" />
+    <state x="476" y="107" width="424" height="510" key="FileChooserDialogImpl" timestamp="1650572995917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="107" width="424" height="510" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1650572995917" />
+    <state x="547" y="263" key="Github.ShareDialog" timestamp="1650573007277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="547" y="263" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1650573007277" />
+    <state x="384" y="73" width="577" height="580" key="Github.UntrackedFilesDialog" timestamp="1650573023379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="73" width="577" height="580" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1650573023379" />
+    <state width="618" height="377" key="GridCell.Tab.0.bottom" timestamp="1650571600757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="377" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650571600757" />
+    <state width="618" height="377" key="GridCell.Tab.0.center" timestamp="1650571600756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="377" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1650571600756" />
+    <state width="618" height="377" key="GridCell.Tab.0.left" timestamp="1650571600756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="377" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1650571600756" />
+    <state width="618" height="377" key="GridCell.Tab.0.right" timestamp="1650571600757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="377" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1650571600757" />
+    <state x="203" y="0" key="SettingsEditor" timestamp="1650572999758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="203" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1650572999758" />
+  </component>
+</project>
